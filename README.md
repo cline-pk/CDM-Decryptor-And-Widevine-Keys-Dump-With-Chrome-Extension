@@ -5,7 +5,6 @@ This tool is built to streamline the process of accessing and analyzing DRM cont
 ## ✨ Key Features
 
 | | |
-| :--- | :--- |
 | **🤖 Automated Extraction** | Effortlessly captures MPD manifests and decryption keys the moment you play a DRM-protected stream. No manual steps required. |
 | **⏰ Intelligent Scheduling** | Configure the tool to fetch data at precise intervals—hourly, daily, or custom cron schedules—ensuring you always have the latest manifests. |
 | **⚡ Zero Manual Effort** | Eliminates the tedious and error-prone process of manual extraction from browser dev tools, saving you significant time and hassle. |
