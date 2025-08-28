@@ -45,3 +45,28 @@ Using the extension is a completely hands-off process:
 4.  **View Data:** Click the pinned extension icon in your toolbar to view a popup of all captured MPD URLs and decryption keys.
 
 > **Tip:** The data is captured in real-time. For scheduled fetching, ensure the tab with the video stream is active and playing.
+
+=====================================================
+
+## ⚠️ Developer-Focused Disclaimer & Security Notice
+
+**Intended Purpose:**  
+This extension is designed exclusively for **security research, penetration testing, and educational purposes**. It serves as a vital tool for:
+- Security professionals and developers to audit their own streaming platforms
+- Understanding potential vulnerabilities in content protection implementation
+- Testing the robustness of DRM and encryption implementations
+- Developing better security measures against unauthorized data extraction
+
+**Legal & Ethical Use:**  
+- This tool must only be used on platforms and content where you have explicit authorization to conduct security testing
+- Unauthorized use on third-party services may violate Terms of Service and applicable laws
+- The developers assume no liability for misuse of this tool or any security breaches resulting from its capabilities
+
+**For Streaming Platform Developers:**  
+If you're concerned about your platform's vulnerability to such extraction methods, we recommend:
+- Implementing additional obfuscation layers for key exchange
+- Regularly conducting security audits of your streaming infrastructure
+- Monitoring for unusual patterns in manifest requests
+- Utilizing certified DRM implementation best practices
+
+**Use of this tool for accessing protected content without authorization is strictly prohibited. By using this extension, you acknowledge that you understand these terms and accept full responsibility for its application.**
