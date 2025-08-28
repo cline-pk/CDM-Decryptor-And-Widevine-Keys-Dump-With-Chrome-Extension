@@ -26,13 +26,17 @@ Follow these steps to install the extension in developer mode:
 2.  **Enable** **Developer Mode** using the toggle in the top-right corner.
 3.  Click the **Load unpacked** button.
 4.  **Select the folder** you created in Step 1 (the one containing the extension files).
+<img width="640" height="360" alt="insall_1" src="https://github.com/user-attachments/assets/2e667631-da0e-48f7-adbe-579db85587b9" />
+<img width="640" height="360" alt="insall_12" src="https://github.com/user-attachments/assets/17c6f2b5-5ec1-48f2-ba33-b1ac364c5216" />
 
 ### Step 3: Pin the Extension
 - Click the **Extensions puzzle piece (🧩)** icon in the toolbar.
 - Find **XtreamMasters CDM** in the list and click the **Pin (📌)** icon next to it.
+<img width="640" height="360" alt="insall_3" src="https://github.com/user-attachments/assets/85309531-d3d6-4b23-8c89-16f08ea73415" />
+<img width="640" height="360" alt="install_5" src="https://github.com/user-attachments/assets/756304b2-c50e-406d-b6b7-66b54a451f82" />
+<img width="640" height="360" alt="insall_4" src="https://github.com/user-attachments/assets/c61ba350-7231-43b2-bb27-738b5bea88c1" />
 
 **You're all set! The extension is now active and will automatically capture data from DRM streams.**
-
 
 
 ## 🎯 How to Use
