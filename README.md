@@ -18,7 +18,7 @@ This tool is built to streamline the process of accessing and analyzing DRM cont
 Follow these steps to install the extension in developer mode:
 
 ### Step 1: Obtain the Extension
-- **Download** the (https://cdm.xtream-masters.com/user.php#dwonload)[`xtreammasers-cdm_ext.zip`] file from the releases.
+- **Download** the latest [`xtreammasers-cdm_ext.zip`](https://cdm.xtream-masters.com/user.php#download) file from the releases.
 - **Extract** the ZIP file to a folder of your choice (e.g., `xtreammasters-cdm`).
 
 ### Step 2: Load into Chrome
