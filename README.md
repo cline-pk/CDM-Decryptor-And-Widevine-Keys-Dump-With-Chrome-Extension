@@ -33,6 +33,7 @@ Follow these steps to install the extension in developer mode:
   <em>Enable Developer Mode and click "Load unpacked"</em>
 </div>
 
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/17c6f2b5-5ec1-48f2-ba33-b1ac364c5216" alt="File browser selecting the extension folder" width="600" />
   <br />
@@ -50,13 +51,16 @@ Follow these steps to install the extension in developer mode:
   <em>Pin the extension for quick access from your toolbar</em>
 </div>
 
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c61ba350-7231-43b2-bb27-738b5bea88c1" alt="Extension successfully installed and pinned in toolbar" width="600" />
   <br />
   <em>Extension successfully installed and active</em>
 </div>
 
+
 **You're all set! The extension is now active and will automatically capture data from DRM streams.**
+
 
 
 ## 🎯 How to Use
