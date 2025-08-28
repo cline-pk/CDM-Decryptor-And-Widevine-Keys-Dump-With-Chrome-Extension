@@ -18,26 +18,43 @@ This tool is built to streamline the process of accessing and analyzing DRM cont
 Follow these steps to install the extension in developer mode:
 
 ### Step 1: Obtain the Extension
-- **Download** the latest [`xtreammasers-cdm_ext.zip`](https://cdm.xtream-masters.com/user.php#download) file from the xtream-masters user dashboard releases.
-- **Extract** the ZIP file to a folder of your choice (e.g., `xtreammasters-cdm`).
+- **Download** the latest [`xtreammasers-cdm_ext.zip`](https://cdm.xtream-masters.com/user.php#download) file from the releases section.
+- **Extract** the ZIP file to a dedicated folder on your computer (e.g., `xtreammasters-cdm`).
 
 ### Step 2: Load into Chrome
-1.  Open Chrome and go to `chrome://extensions`.
+1.  Open Chrome and navigate to `chrome://extensions`.
 2.  **Enable** **Developer Mode** using the toggle in the top-right corner.
-3.  Click the **Load unpacked** button.
-4.  **Select the folder** you created in Step 1 (the one containing the extension files).
-<img width="640" height="360" alt="insall_1" src="https://github.com/user-attachments/assets/2e667631-da0e-48f7-adbe-579db85587b9" />
+3.  Click the **Load unpacked** button that appears.
+4.  **Select the folder** containing the extracted extension files.
 
-<img width="640" height="360" alt="insall_12" src="https://github.com/user-attachments/assets/17c6f2b5-5ec1-48f2-ba33-b1ac364c5216" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2e667631-da0e-48f7-adbe-579db85587b9" alt="Chrome Extensions page with Developer Mode enabled" width="600" />
+  <br />
+  <em>Enable Developer Mode and click "Load unpacked"</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/17c6f2b5-5ec1-48f2-ba33-b1ac364c5216" alt="File browser selecting the extension folder" width="600" />
+  <br />
+  <em>Select the folder where you extracted the extension files</em>
+</div>
 
 ### Step 3: Pin the Extension
-- Click the **Extensions puzzle piece (🧩)** icon in the toolbar.
-- Find **XtreamMasters CDM** in the list and click the **Pin (📌)** icon next to it.
-<img width="640" height="360" alt="insall_3" src="https://github.com/user-attachments/assets/85309531-d3d6-4b23-8c89-16f08ea73415" />
+- Click the **Extensions puzzle piece (🧩)** icon in Chrome's toolbar.
+- Locate **XtreamMasters CDM** in the dropdown list.
+- Click the **Pin (📌)** icon to keep it easily accessible.
 
-<img width="640" height="360" alt="install_5" src="https://github.com/user-attachments/assets/756304b2-c50e-406d-b6b7-66b54a451f82" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/85309531-d3d6-4b23-8c89-16f08ea73415" alt="Extensions dropdown menu showing the pin option" width="600" />
+  <br />
+  <em>Pin the extension for quick access from your toolbar</em>
+</div>
 
-<img width="640" height="360" alt="insall_4" src="https://github.com/user-attachments/assets/c61ba350-7231-43b2-bb27-738b5bea88c1" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c61ba350-7231-43b2-bb27-738b5bea88c1" alt="Extension successfully installed and pinned in toolbar" width="600" />
+  <br />
+  <em>Extension successfully installed and active</em>
+</div>
 
 **You're all set! The extension is now active and will automatically capture data from DRM streams.**
 
