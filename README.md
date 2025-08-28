@@ -32,3 +32,16 @@ Follow these steps to install the extension in developer mode:
 - Find **XtreamMasters CDM** in the list and click the **Pin (📌)** icon next to it.
 
 **You're all set! The extension is now active and will automatically capture data from DRM streams.**
+
+
+
+## 🎯 How to Use
+
+Using the extension is a completely hands-off process:
+
+1.  **Navigate** to a website that hosts DRM-protected streams (e.g., Your Development Website, etc.).
+2.  **Play** any video stream as you normally would.
+3.  **Let it Work:** The extension automatically works in the background. You will see a notification badge on the icon (e.g., `✓` or `Keys: X`) confirming successful capture.
+4.  **View Data:** Click the pinned extension icon in your toolbar to view a popup of all captured MPD URLs and decryption keys.
+
+> **Tip:** The data is captured in real-time. For scheduled fetching, ensure the tab with the video stream is active and playing.
