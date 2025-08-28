@@ -13,26 +13,22 @@ This tool is built to streamline the process of accessing and analyzing DRM cont
 | **🎯 Reliable & Accurate** | Engineered for high fidelity, providing dependable extraction of critical streaming data for your projects. |
 
 
-## 🚀 Installation & Setup
+## ⚙️ Installation
 
-Get up and running in a few simple steps:
+Follow these steps to install the extension in developer mode:
 
-1.  **Download & Extract**
-    *   Download the latest `xtreammasers-cdm_ext.zip` file from the releases.
-    *   Unzip the contents into a dedicated folder on your computer. Remember this location.
+### Step 1: Obtain the Extension
+- **Download** the `xtreammasers-cdm_ext.zip` file from the releases.
+- **Extract** the ZIP file to a folder of your choice (e.g., `xtreammasters-cdm`).
 
-2.  **Open Chrome Extensions**
-    *   Navigate to `chrome://extensions/` in your Chrome browser.
+### Step 2: Load into Chrome
+1.  Open Chrome and go to `chrome://extensions`.
+2.  **Enable** **Developer Mode** using the toggle in the top-right corner.
+3.  Click the **Load unpacked** button.
+4.  **Select the folder** you created in Step 1 (the one containing the extension files).
 
-3.  **Enable Developer Mode**
-    *   Toggle on **Developer mode** in the top-right corner of the page.
+### Step 3: Pin the Extension
+- Click the **Extensions puzzle piece (🧩)** icon in the toolbar.
+- Find **XtreamMasters CDM** in the list and click the **Pin (📌)** icon next to it.
 
-4.  **Load the Extension**
-    *   Click the **Load unpacked** button that appears.
-    *   In the file dialog, select the folder you unzipped in Step 1.
-
-5.  **Pin for Easy Access (Optional but Recommended)**
-    *   Click the puzzle piece (🧩) extension icon in your toolbar.
-    *   Find **XtreamMasters CDM** and click the pin (📌) icon to keep it visible.
-
-> **Note:** Since this is an unpacked extension, you will need to repeat the "Load unpacked" step if you restart Chrome. For a permanent install, consider loading the extension in a browser profile you don't frequently close.
+**You're all set! The extension is now active and will automatically capture data from DRM streams.**
